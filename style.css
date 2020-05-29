@@ -1,0 +1,83 @@
+.navbar {background-color: teal !important;}
+
+.bi {color: #FEE715FF;}
+
+.carousel {margin-top: 10px;  width: 900px;  }
+
+ .card  { margin-top: 20px; display: flex;  }
+
+ .btn:hover { background-color: teal}
+
+ .btn {background-color: teal;}
+
+ .flex1 { display: flex; margin-left: 0px;}
+
+ .flex2 { display: flex; margin-left: 0px;}
+
+ .flex3 { display: flex; margin-left: 0px;}
+
+ .pagination  {margin-top: 20px;}
+ 
+.page-link:hover {background-color: teal;}
+
+.page-link {color: black !important;}
+
+.alert {background-color: teal !important; color: black !important;}
+
+.fa {color: black !important;}
+
+.blck:hover {color: black; }
+
+.blck {color: black;}
+
+                                        /* MEDIA QUERIES */
+
+  @media screen and (max-width: 767.98px) { 
+      .carousel {width: 500px;}
+ }
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
